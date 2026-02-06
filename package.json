@@ -1,0 +1,25 @@
+{
+  "name": "@jnode/ip",
+  "version": "1.0.0",
+  "description": "Simple IP handling package for Node.js.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Hello, IP.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japple-jnode/ip.git"
+  },
+  "keywords": [
+    "JustNode",
+    "IP",
+    "Web",
+    "JustApple"
+  ],
+  "author": "JustApple <apple@justapple.tw>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/japple-jnode/ip/issues"
+  },
+  "homepage": "https://github.com/japple-jnode/ip#readme"
+}
